@@ -14,4 +14,8 @@ Path: keep this empty
 
 Network: ws
 
+
+Since heroku this violate heroku acceptable policies , please fork and change the depoly button url with ur own.
+
+
 Credit : https://github.com/teddysun/across
